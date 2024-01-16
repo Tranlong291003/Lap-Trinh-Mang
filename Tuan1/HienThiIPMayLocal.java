@@ -1,8 +1,10 @@
+package com.mycompany.javaapplication.Tuan1;
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.mycompany.javaapplication;
+
 
 import java.net.InetAddress;
 import java.net.NetworkInterface;
@@ -13,7 +15,7 @@ import java.util.Enumeration;
  * @author Long
  */
 
-public class Bai3Tuan1 {
+public class HienThiIPMayLocal {
     public static void main(String[] args) {
         try {
             Enumeration<NetworkInterface> netInterfaces = NetworkInterface.getNetworkInterfaces();

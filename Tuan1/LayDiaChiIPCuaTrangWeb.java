@@ -1,8 +1,9 @@
+package com.mycompany.javaapplication.Tuan1;
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.mycompany.javaapplication;
 
 /**
  *
@@ -10,7 +11,7 @@ package com.mycompany.javaapplication;
  */
 import java.net.InetAddress;
 
-public class Bai2Tuan1 {
+public class LayDiaChiIPCuaTrangWeb {
     public static void main(String[] args) {
         try {
             // In địa chỉ IP
