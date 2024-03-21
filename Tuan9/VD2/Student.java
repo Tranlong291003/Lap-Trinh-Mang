@@ -1,5 +1,5 @@
 
-package com.mycompany.tuan91;
+package com.mycompany.Tuan9.VD2;
 import java.io.Serializable;
 public class Student implements Serializable{
     private String name;

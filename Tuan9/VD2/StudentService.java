@@ -1,4 +1,4 @@
-package com.mycompany.tuan91;
+package com.mycompany.Tuan9.VD2;
 
 
 import java.rmi.Remote;

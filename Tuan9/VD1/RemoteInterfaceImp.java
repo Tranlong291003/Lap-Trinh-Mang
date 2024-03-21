@@ -1,4 +1,4 @@
-package com.mycompany.Tuan9;
+package com.mycompany.Tuan9.VD1;
 
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
